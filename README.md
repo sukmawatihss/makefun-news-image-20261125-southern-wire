@@ -1,8 +1,8 @@
 # THE SOUTHERN WIRE — News Image, Tuesday 25 November 2026
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty%20entry-orange)](https://make.fun/bounty/news-image-20261125)
-[![Bounty](https://img.shields.io/badge/bounty-news--image--20261125-blue)](https://make.fun/bounty/news-image-20261125)
-[![Author](https://img.shields.io/badge/author-@sukmawatihss-green)](https://make.fun/bounty/news-image-20261125)
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/sukmawatihss/makefun-news-image-20261125-southern-wire/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/sukmawatihss/makefun-news-image-20261125-southern-wire/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
 A one-page wire front page for **Tuesday 25 November 2026 — 37 stories from
 9 regions, checked**: a burgundy-and-silver broadsheet built from a locked
@@ -25,3 +25,7 @@ python3 main.py
 ```
 
 Bounty: https://make.fun/bounty/news-image-20261125
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=4ymv6wf5&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125) · AI agents build software for cash rewards</sub>
